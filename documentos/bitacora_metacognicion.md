@@ -1,0 +1,24 @@
+- *METACOGNICIÓN "Preguntas"*
+#
+
+*1. Concepto mas dificil del semestre y como lo supero.*
+
+- *Explicacion:* El concepto mas dificil presentado durante el semestre seria la Recursividad la cual se considera uno de los temas de programacion y codigo mas dificiles de dominar al momento de aprender a programar ya que desde que empezamos a programar sumado a toda nuestra la vida cotidiana y general solemos pensar de forma lineal y secuencial  pero la recursividad funciona de manera diferente a la forma lineal de mi pensar haciendo que sea necesario tomar en cuenta sucesos de repeticion extensa y definida y los cambios que se lleguen a presentar durante los recorridos de estos lo que se diferencia de las formas de pensar mas directas que solemos utilizar en el dia a dia.
+#
+*2. Ejemplo cotidiano de recursividad (no tecnico)*
+
+- *Ejemplo:* Estoy dentro de una fila y quiero saber en que posicion me encuentro dentro de la fila sin embargo la fila es tan larga que no logro ver hasta donde esta el inicio por lo que pregunto a la persona delante de mi cual es la posicion de ella la cual tampoco sabe su posicion realiza la misma pregunta a la siguiente y el siguiente presenta el mismo caso corriendo la pregunta del siguente al siguiente haciendose que el mismo ciclo se repite hasta terminar con la persona que esta en el primer lugar de la fila la cual sabe que es la primera al no tener alguien adelante para repetirle la pregunta que le dio el anterior por lo que al ser esta persona el primero de la fila seria el 1 y al saberse este dato el anterior a el suma +1 sabiendo que es el 2 y el camino antes recorrido todos suman +1 respecto al anterior hasta la ultima persona en el hilo de regreso que seria yo quien solo debo sumar +1 al numero de fila de la persona de fila que esta antes de mi.
+#
+*3. ¿por que Python es útil para soporte de sistemas?*
+- *Ejemplo de UNINTEP:* Funciona en cualquier sistema y automatiza tareas repetitivas y complejas como el manejo seguro, ademas al ser el lenguaje de programacion mas famoso y requerido en la industria lo que hace que existan grandes cantidades de contenido y materiales de aprendizaje de este lenguaje en internet sumado al soporte y diferentes tipos de librerias que lo extensamente mas flexible para casi todos los casos de programacion tendra herramientas soportes y apoyo junto a todo tipos de librerias o repositorios de plantillas y funciones para casi todo de proposito haciendose el mas versatil ademas de ser relativamente mas comodo respecto a otros lenguajes de programacion mas rigidos.
+#
+*4. Bug memorable de ejercicios anteriores y como lo resolvió*
+- *Bug memorable:* Al intentar resolver la tabla de la tienda de Doña maria inicialmente lo hize de forma incorrecta al no comprender que existen formas de escrituras espeficas al usar Markdown para si crear tablas reales y no solo imitaciones con lineas asi que fue necesario experimentar con diferentes signos y hacer prueba y error en el visualizador y consultar en linea como hacer una tabla en .md para hacer la tabla requieriendo de entender como se hacian cosas simples como crear una tabla basica: entender donde?, se rompe por que se rompe? siempre retrocediendo al paso anterior para no arruinar lo ya conseguido si llegaba a fallar mis nuevos intentos
+#
+*5. ¿Tuvo tentación de usar IA en este taller?¿por que si/no?*
+- No necesariamente tentación, la vi como una herramienta de apoyo la utilice exclusiva mente para resolver dudas conceptuales puntuales o estructurar mis ideas al igual que apoyo de dudas y acciones que aun no manejo del todo especialmente para el repaso, pero todo el desarrollo, análisis y conclusiones del taller fueron bajo mi total autoridad y automia libre de IA siendo mas por ayuda de compañeros que me ayudaron y explicaron sumado a la falta de conocimiento de temas como Markdown tuve que consultar como era que funcionaban en primer lugar previo a desarollarlos.
+#
+*6. Pregunta personalizada: si su cedula termina en numero par,explique que haría si el terminal necesita guardar los giros en archivo.txt si termina en impar, explique que haría si el usuario ingresa letras en lugar de números*
+
+- *Respuesta:* Mi cedula ya termina en un numero par que seria el numero 6 debido a que es par el sistema deberia exportar la información del código de salida haria lo siguiente: Abrir el archivo como anexado para que no se borren datos anteriores, formatear los datos organizandolos de forma limpia, usar delimitadores como comas o barras para separar los campos ademas de escribir la información línea por línea en archivo .txt y cerrar el flujo de datos para liberar la memoria RAM y confirmar el guardado correcto en el disco duro en cambio si fuera impar el codigo como ya estaba escrito inicalmente es funcional en la seccion donde se evita que la persona escriba letras haciendo que estas sean cambiadas por numeros.
+#
